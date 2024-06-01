@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Zaynab! 👋
 
-<!--
-**zivla20/zivla20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little bit about me:
+- I'm currently working on my data analysis skills.
+- So far I have done:
+    - The Google Analytics Certificate (Coursera)
+    - The University of Michigan py3 Specialisation
+    - A 12 week Data Skills for the Energy Transfer accelerator programme offered by Shell
+    - PL-300 Power BI Data Analysis Microsoft Certification
+-  I started my journey with data anlysis after getting a First-Class Maths & Statistics BSc (Hons) in 2022.
+-  And I'm currently ... enrolled on the AI Core Data Analytics student!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm very new to GitHub so this is very much a work in progress.
