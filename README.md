@@ -1,5 +1,5 @@
 ## Hi, I'm Zaynab! 👋
-
+-------
 ### A little bit about me:
 - I'm currently working on my data analysis skills.
 - So far I have done:
