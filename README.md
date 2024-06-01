@@ -10,4 +10,4 @@
 -  I started my journey with data anlysis after getting a First-Class Maths & Statistics BSc (Hons) in 2022.
 -  And I'm currently ... enrolled on the AI Core Data Analytics pathway!
 
-(__I'm very new to GitHub so this is very much a work in progress.__)
+_(I'm very new to GitHub so this is very much a work in progress.)_
