@@ -8,6 +8,6 @@
     - A 12 week Data Skills for the Energy Transfer accelerator programme offered by Shell
     - PL-300 Power BI Data Analysis Microsoft Certification
 -  I started my journey with data anlysis after getting a First-Class Maths & Statistics BSc (Hons) in 2022.
--  And I'm currently ... enrolled on the AI Core Data Analytics student!
+-  And I'm currently ... enrolled on the AI Core Data Analytics pathway!
 
-I'm very new to GitHub so this is very much a work in progress.
+(__I'm very new to GitHub so this is very much a work in progress.__)
