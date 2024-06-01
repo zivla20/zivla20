@@ -12,5 +12,5 @@
 
 _(I'm very new to GitHub so this is very much a work in progress.)_
 
-----------
+-------
 Here's my LinkedIn if anyone wants to connect: https://www.linkedin.com/in/zaynab-alvi
