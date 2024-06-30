@@ -10,7 +10,5 @@
 -  I started my journey with data analysis after getting a First-Class Maths & Statistics BSc (Hons) in 2022.
 -  And I'm currently ... enrolled on the AI Core Data Analytics pathway!
 
-_(I'm very new to GitHub so this is very much a work in progress.)_
-
 -------
 Here's my LinkedIn if anyone wants to connect: https://www.linkedin.com/in/zaynab-alvi
